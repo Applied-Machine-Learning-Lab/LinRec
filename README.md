@@ -1,4 +1,4 @@
-# L2NLA
+# LinRec
 
 All files are conducted in RecBole framework, and the link of RecBole is: https://www.recbole.io/do
 
