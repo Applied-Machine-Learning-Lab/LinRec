@@ -26,4 +26,4 @@ This requires NVIDIA driver version >= 396.26 (for Linux) or >= 397.44 (for Wind
 Then, you may substitute the 'Layers' file (recbole/model) in Recbole. Also, other special configuration files (e.g., 'ml-1m.yaml') are included. Just replace them in RecBole (recbole/properties).
 Now, You can run the run.py
 
-You can follow the instructions of RecBole for another operation. 
+You can follow the instructions of RecBole for other operations. 
