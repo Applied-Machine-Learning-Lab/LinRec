@@ -1,6 +1,6 @@
 # LinRec
 
-All files are conducted in RecBole framework, and the link of RecBole is: https://www.recbole.io/do
+All files are conducted in the RecBole framework, and the link to RecBole is: https://www.recbole.io/do
 
 The requirements are the same as RecBole as below:
 torch>=1.10.0
@@ -23,7 +23,7 @@ RecBole requires torch version 1.7.0 or later. If you want to use RecBole with G
 please ensure that CUDA or cudatoolkit version is 9.2 or later.
 This requires NVIDIA driver version >= 396.26 (for Linux) or >= 397.44 (for Windows10).
 
-Then you may substitute the 'Layers' file in Recbole. Also, other special configuration files are included. Just replace them in RecBole.
+Then, you may substitute the 'Layers' file in Recbole. Also, other special configuration files (e.g., ml-1m.yaml) are included. Just replace them in RecBole (recBole/properties/dataset).
 Now, You can run the run.py
 
-You can follow the instruction of RecBole for another operation. 
+You can follow the instructions of RecBole for another operation. 
