@@ -1,5 +1,7 @@
 # LinRec
 
+Source code of https://dl.acm.org/doi/10.1145/3539618.3591717
+
 All files are conducted in the RecBole framework, and the link to RecBole is https://www.recbole.io/do.
 
 The requirements are the same as RecBole as below:
