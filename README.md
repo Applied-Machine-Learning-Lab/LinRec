@@ -29,7 +29,7 @@ Then, you may substitute the 'Layers' file ('recbole/model') in Recbole.
 
 - Config: Other special configuration files (e.g., 'overall.yaml', 'ml-1m.yaml') are included. You must replace them in RecBole ('overall.yaml' -> 'recbole/properties/'; 'ml-1m.yaml' -> 'recbole/properties/dataset/'). Otherwise, errors may occur.
 
-- Data: You have to download the datasets to be used: e.g., **ml-100k**, **ml-1m**, **gowalla**.
+- Data: You have to download the datasets to be used: e.g., **ml-100k**, **ml-1m**, **gowalla**, where we provide the **ml-1m** for convenience. Then put the downloaded dataset into the 'dataset/' directory in Recbole, like **ml-100k**.
 
 - Hyperpara: The most critical parameters are $N$ ('MAX_ITEM_LIST_LENGTH') and $d$ ('hidden_size'), which are set in 'ml-1m.yaml' and 'run.py'. Please make sure the values conform to settings in the paper, e.g., $N=200$, $d=128$ for the ml-1m dataset.
 
