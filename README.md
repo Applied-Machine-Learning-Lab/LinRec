@@ -3,7 +3,7 @@
 Source code of [LinRec: Linear Attention Mechanism for Long-term Sequential Recommender Systems](https://dl.acm.org/doi/10.1145/3539618.3591717)
 
 All files are conducted in the RecBole framework, and the link to RecBole is [https://github.com/RUCAIBox/RecBole](https://github.com/RUCAIBox/RecBole).
-# Environments
+## Environments
 The requirements are the same as RecBole as below: <br>
 torch>=1.10.0 <br>
 numpy>=1.17.2 <br>
