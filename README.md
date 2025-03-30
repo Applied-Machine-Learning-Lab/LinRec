@@ -24,7 +24,7 @@ RecBole requires Python version 3.7 or later.
 RecBole requires torch version 1.7.0 or later. If you want to use RecBole with GPU,
 please ensure that CUDA or cudatoolkit version is 9.2 or later.
 This requires NVIDIA driver version >= 396.26 (for Linux) or >= 397.44 (for Windows 10).
-## Implementation
+## Implementations
 Then, you may substitute the 'Layers' file ('recbole/model') in Recbole. 
 
 - Config: Other special configuration files (e.g., 'overall.yaml', 'ml-1m.yaml') are included. You must replace them in RecBole ('overall.yaml' -> 'recbole/properties/'; 'ml-1m.yaml' -> 'recbole/properties/dataset/'). Otherwise, errors may occur.
