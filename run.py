@@ -1,4 +1,4 @@
-# from recbole.quick_start.quick_start import run_recbole
+from recbole.quick_start.quick_start import run_recbole
 
 parameter_dict = {
    # 'neg_sampling': {'popularity': 100},
